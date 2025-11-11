@@ -1,17 +1,33 @@
-﻿No.,Name,B/T,Pos.,Ht.,Wt.,Yr.,Hometown / High School,Previous School,University
-1,Ryan McKay,L/R,INF,5’10”,180,Jr.,"Clarkston, MI / Orchard Lake St. Mary’s HS",—,Michigan State
-3,Dayton Murphy,R/R,INF,5’10”,161,So.,"Crystal Lake, IL / Crystal Lake South HS",—,Michigan State
-8,Isaac Sturgess,L/L,OF/LHP,6’2”,182,So.,"Davison, MI / Powers Catholic HS",—,Michigan State
-10,Nick Williams,R/R,OF,6’0”,195,Gr.,"Racine, WI / Union Grove HS",—,Michigan State
-13,Parker Picot,R/R,OF,6’1”,200,Jr.,"Rochester Hills, MI / Rochester Adams HS",—,Michigan State
-14,Tommy Szczepanski,R/R,RHP,6’5”,225,Sr.,"Bay City, MI / Garber HS",—,Michigan State
-15,Gannon Grundman,R/L,LHP,6’3”,188,Jr.,"Howell, MI / Hartland HS",—,Michigan State
-18,Noah Bright,R/R,C,5’11”,185,Gr.,"Macomb, MI / Henry Ford II HS",—,Michigan State
-19,Adam Broski,R/R,C,6’3”,178,Jr.,"Harrison Twp., MI / Warren De La Salle HS",—,Michigan State
-20,Josh Klug,R/R,RHP,6’1”,181,Jr.,"Traverse City, MI / Traverse City Central HS",—,Michigan State
-21,Khamaree Thomas,L/L,OF,5’8”,152,So.,"Chicago, IL / Kenwood Academy",—,Michigan State
-25,Reggie Sharpe,R/R,INF,5’8”,145,R-Fr.,"Grosse Pointe, MI / Combine Academy",—,Michigan State
-28,Aidan Donovan,R/R,RHP,6’4”,210,So.,"Commerce, MI / Orchard Lake St. Mary’s HS",—,Michigan State
-34,Logan Pikur,R/R,RHP,6’4”,192,Jr.,"West Bloomfield, MI / West Bloomfield HS",—,Michigan State
-35,Randy Seymour,R/R,INF,6’4”,195,Sr.,"Frankfort, IL / Lincoln Way East HS",—,Michigan State
-41,Nolan Higgins,R/R,RHP,6’4”,203,Sr.,"Wixom, MI / Orchard Lake St. Mary’s HS",—,Michigan State
+﻿No.,Name,Pos.,B/T,Yr.,Ht.,Wt.,Hometown / High School,University
+1,Ryan McKay,INF,L/R,Jr.,"5'10""",180,"Clarkston, MI / Orchard Lake St. Mary's HS",Michigan State
+2,Cole Van Ameyde,INF,R/R,Fr.,"6'1""",185,"Lake Orion, MI / Brother Rice HS",Michigan State
+3,Dayton Murphy,INF,R/R,So.,"5'10""",161,"Crystal Lake, IL / Crystal Lake South HS",Michigan State
+5,Trent Rice,OF,R/R,Jr.,"5'10""",170,"Macomb, MI / Cardinal Mooney Catholic HS",Michigan State
+6,Davis Weeks,RHP/INF,R/R,Fr.,"5'10""",180,"Edwards, IL / Dunlap HS",Michigan State
+7,Carter Monke,RHP,R/R,Gr.,"6'1""",173,"Mount Olive, IL / Mount Olive HS",Michigan State
+8,Isaac Sturgess,OF/LHP,L/L,So.,"6'2""",182,"Davison, MI / Powers Catholic HS",Michigan State
+10,Nick Williams,OF,R/R,Gr.,"6'0""",195,"Racine, WI / Union Grove HS",Michigan State
+11,Parker Picot,OF,R/R,Jr.,"6'1""",200,"Rochester Hills, MI / Rochester Adams HS",Michigan State
+13,CJ Deckinga,INF/OF,R/R,Fr.,"6'4""",200,"Minooka, IL / Minooka HS",Michigan State
+14,Tommy Szczepanski,RHP,R/R,Sr.,"6'5""",225,"Bay City, MI / Garber HS",Michigan State
+15,Gannon Grundman,LHP,R/L,Jr.,"6'3""",188,"Howell, MI / Hartland HS",Michigan State
+16,Brady Chambers,RHP,R/R,R-Fr.,"6'6""",215,"Western Springs, IL / Lyons Township HS",Michigan State
+18,Noah Bright,C,R/R,Gr.,"5'11""",185,"Macomb, MI / Henry Ford II HS",Michigan State
+19,Adam Broski,C,R/R,Jr.,"6'3""",178,"Harrison Twp., MI / Warren De La Salle HS",Michigan State
+20,Josh Klug,RHP,R/R,Jr.,"6'1""",181,"Traverse City, MI / Traverse City Central HS",Michigan State
+21,Khamaree Thomas,OF,L/L,So.,"5'8""",152,"Chicago, IL / Kenwood Academy",Michigan State
+22,JD Greeley,RHP,R/R,Gr.,"6'1""",192,"Blakeslee, PA / Pocono Mountain West HS",Michigan State
+24,Anthony Elezaj,C,R/R,Fr.,"6'0""",182,"Rochester, MI / Orchard Lake St. Mary's HS",Michigan State
+26,Andrew Everson,RHP,R/R,Fr.,"6'2""",201,"Brighton, MI / Brighton HS",Michigan State
+28,Aidan Donovan,RHP,R/R,So.,"6'4""",210,"Commerce, MI / Orchard Lake St. Mary's HS",Michigan State
+29,Sam Beemer,RHP,R/R,Fr.,"6'3""",210,"Lake Orion, MI / Lake Orion Community",Michigan State
+30,Jasen Oliver,INF,R/R,Jr.,"5'11""",190,"Almont, MI / Orchard Lake St. Mary's HS",Michigan State
+31,Ben Kochany,RHP,R/R,Jr.,"6'2""",190,"Bay City, MI / Bay City Western HS",Michigan State
+32,Steve Fountain,RHP,R/R,Fr.,"6'10""",253,"West Bloomfield, MI / West Bloomfield HS",Michigan State
+34,Logan Pikur,RHP,R/R,Jr.,"6'4""",192,"West Bloomfield, MI / West Bloomfield HS",Michigan State
+35,Randy Seymour,INF,R/R,Sr.,"6'4""",195,"Frankfort, IL / Lincoln Way East HS",Michigan State
+38,Kyle Rudolph,RHP,R/R,Fr.,"5'11""",185,"Peachtree City, GA / Starrs Mill HS",Michigan State
+41,Nolan Higgins,RHP,R/R,Sr.,"6'4""",203,"Wixom, MI / Orchard Lake St. Mary's HS",Michigan State
+42,Andrew Siler,LHP,L/L,Gr.,"6'3""",223,"Avon, OH / Avon HS",Michigan State
+43,Bobby Crane,LHP,R/L,Fr.,"6'3""",210,"Grosse Pointe, MI / U of Detroit Jesuit HS",Michigan State
+44,Isaiah Domey,INF,R/R,Fr.,"6'1""",273,"New Baltimore, MI / Anchor Bay HS",Michigan State
